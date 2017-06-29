@@ -1,1 +1,2 @@
 Comme son nom l'indique, ce fichier texte est important!
+On modifie les informations importantes en faisant attention a ne pas tout casser.
